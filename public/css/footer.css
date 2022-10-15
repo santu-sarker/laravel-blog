@@ -1,0 +1,20 @@
+/*to make the footer work we need to shift this body section to main page body section*/
+
+.site-footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid rgb(233, 228, 228);
+    background-color: white;
+    font-size: 16px;
+    line-height: 40px;
+    font-weight: 400;
+    color: #040130;
+    /* -webkit-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75);
+    box-shadow: 0px -4px 3px rgba(50, 50, 50, 0.75); */
+}
+
+.copyright-text {
+    margin: 0;
+}

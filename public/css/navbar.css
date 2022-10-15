@@ -1,0 +1,21 @@
+.navbar {
+    background: #421826 !important;
+}
+.navbar-brand {
+    color: white !important;
+    font-weight: 500;
+}
+
+.nav-link {
+    color: white !important;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    margin-right: 20px;
+    font-weight: 400;
+    border-bottom: #421826 4px solid;
+}
+
+.nav-link:hover {
+    background: #693345;
+    border-bottom: white 4px solid;
+}
